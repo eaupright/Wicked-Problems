@@ -4,7 +4,7 @@ My name is Elizabeth Upright, and this is my repository for the course, Wicked P
 
 ### This is a picture of me:
 
-![](wmpicture.jpg)
+![](wmpicture2.pdf)
 
 ### Index of Projects & Assignments
 
