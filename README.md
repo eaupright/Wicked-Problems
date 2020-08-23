@@ -1,10 +1,6 @@
 # Hello, Everyone!
 
-My name is Elizabeth Upright, and this is my repository for the course, Wicked Problems.
-
-### This is a picture of me:
-
-![](wmpicture2.pdf)
+My name is Elizabeth Upright, and this is my repository for the course, Wicked Problems. ![](wmpicture.jpg)
 
 ### Index of Projects & Assignments
 
