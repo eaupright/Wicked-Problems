@@ -14,4 +14,4 @@ I created the line plot by assigning values to two objects, one named "x" and th
 ![](challenge_question_plot.png)
 
 
-[BACK](README.md)
+[BACK](wicked-problems)
