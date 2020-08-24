@@ -6,4 +6,4 @@ My name is Elizabeth Upright, and this is my repository for the course, Wicked P
 
 ## Index of Projects & Assignments
 
-1. [First Line Plot in R](line_plot.md)
+1. [Getting Started: 8/24/20](getting_started.md)
