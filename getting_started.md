@@ -10,8 +10,10 @@ I created the line plot by assigning values to two objects, one named "x" and th
 ### The more complicated plot:
 ![](more_complicated_plot.png)
 
+I created this plot by using the sample() command to ramdomly select coordinates for the different circles (trees) and squares (houses). Then, I created a data frame with the coordinates from the plotted houses. Using this data frame, I created a spline that connected three of the houses and I labeled the houses with their corresponding number.
+
 ### The challenge question:
 ![](challenge_question_plot.png)
 
+To create the plot for the challenge question, I followed the same principles that I used to make the "more complicated" plot. Except, in this plot, I increased the limits for the area to be from 1 to 1000, and I added more houses and trees than before. This time I used the xspline() command to connect seven of the houses together. With the increased range for the plot, I also had to incrase the size of the houses and the trees.
 
-[BACK](wicked-problems)
