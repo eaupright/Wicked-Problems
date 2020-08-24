@@ -1,4 +1,4 @@
-# Getting Started Assignments: Line Plots
+# Getting Started Assignment: Line Plots
 The first assignment was to use R & Rstudio to create three line plots.
 
 
