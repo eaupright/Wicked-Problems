@@ -7,3 +7,4 @@ My name is Elizabeth Upright, and this is my repository for the course, Wicked P
 ## Index of Projects & Assignments
 
 1. [Getting Started: 8/24/20](getting_started.md)
+2. [Data Management Basics: 8/27/20](data_management_basics.md)
