@@ -2,7 +2,8 @@
 
 My name is Elizabeth Upright, and this is my repository for the course, Wicked Problems. I am a freshman at William & Mary, and I will be a pole vaulter on the Track & Field team. Along with doing sports, I enjoy playing with my cats, cooking, and doing puzzles. I am currently undecided on a major, but data science seems like an interesting field to explore. 
 
-![](wmpicture.jpg)
+![](wmpicture.jpg)<img src="wmpicture.jpg" width="1" height="1.33">
+
 
 ## Index of Projects & Assignments
 
