@@ -1,5 +1,5 @@
 # Project 1 Part 1: Merging, Categorizing, & the Grammar of Graphics
 
 
-![](4_yr_colls.png)
-![](doc_colls.png)
+![](four_yr_colls_plot.png)
+![](doc_colls_plot.png)
