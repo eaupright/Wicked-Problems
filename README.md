@@ -9,3 +9,4 @@ Hello! My name is Elizabeth Upright, and this is my repository for the course, W
 
 1. [Getting Started: 8/24/20](getting_started.md)
 2. [Data Management Basics: 8/27/20](data_management_basics.md)
+3. [Project 1 Part 1: 9/4/20](project1part1.md)
