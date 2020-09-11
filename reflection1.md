@@ -9,6 +9,6 @@ The first food Climax has started tackling is cheese, and already, they have pro
 ##### References: 
 Climax Foods. *Climax Foods*. https://www.climaxfoods.com/
 
-Shieber, J. (2020, September 1). *Founded by an Impossible Foods and Google data scientist, Climax\	 Foods raises $7.5 million to tackle the cheesiest market*. Tech Crunch. https://techcrunch.com/2020/09/01/founded-by-an-impossible-foods-and-google-data-scientist-climax-foods-raises-7-5-million-to-tackle-the-cheesiest-market/
+Shieber, J. (2020, September 1). *Founded by an Impossible Foods and Google data scientist, Climax Foods raises $7.5 million to tackle the cheesiest market*. Tech Crunch. https://techcrunch.com/2020/09/01/founded-by-an-impossible-foods-and-google-data-scientist-climax-foods-raises-7-5-million-to-tackle-the-cheesiest-market/
 
 Watson, E. (2020, September 2). *Climax Foods raises 7.5m: 'We want to replace animals as inefficient factories for converting plants into meat and dairy'*. Food Navigator USA. https://www.foodnavigator-usa.com/Article/2020/09/01/Climax-Foods-raises-7.5m-We-want-to-replace-animals-as-inefficient-factories-for-converting-plants-into-meat-and-dairy
