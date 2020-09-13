@@ -11,3 +11,4 @@ Hello! My name is Elizabeth Upright, and this is my repository for the course, W
 2. [Data Management Basics: 8/27/20](data_management_basics.md)
 3. [Project 1 Part 1: 9/4/20](project1part1.md)
 4. [Data Science Reflection #1: 9/10/20](reflection1.md)
+5. [Project 1 Part 2: 9/13/20](project1part2.md)
