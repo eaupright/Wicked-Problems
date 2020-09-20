@@ -11,3 +11,7 @@ For this project, I accessed and retrieved data from the American Community Surv
 ### Stretch Goal:
 
 For the stretch goal, I conducted the same data analysis, also at the state level. However, in these plots, I analyzed the change in the total male population for each state, rather than the absolute total population.
+
+![](malestretchplot1.png)
+
+![](malestretchplot2.png)
