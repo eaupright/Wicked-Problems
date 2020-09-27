@@ -4,7 +4,16 @@ For this part of the project, I used the "quantmod" package to retrieve and anal
 
 ## Matrices:
 ![](fannie_HD_ZGplot.png)
-![](fannie_LOW_DHIplot.png)
-![](fannie_allplot.png)
+[Click for a larger image](fannie_HD_ZGplot.png)
 
-## Statistical Model:
+
+![](fannie_LOW_DHIplot.png)
+[Click for a larger image](fannie_LOW_DHIplot.png)
+
+
+![](fannie_allplot.png)
+[Click for a larger image](fannie_allplot.png)
+
+
+## [Statistical Model](statmodel2.pdf)
+
