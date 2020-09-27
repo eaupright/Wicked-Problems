@@ -5,16 +5,16 @@ For this part of the project, I used the "quantmod" package to retrieve and anal
 ## Matrices:
 
 ![](fannie_allplot.png)
-[Click for a larger image](fannie_allplot.png)
+[Click for a larger image.](fannie_allplot.png)
 This matrix show the relationship between the closing price tomorrow of Fannie Mae's stock and the closing price today of the four predictor stocks; Home Depot, Lowes, Zillow, and D.R.Horton.
 
 ![](fannie_HD_ZGplot.png)
-[Click for a larger image](fannie_HD_ZGplot.png)
+[Click for a larger image.](fannie_HD_ZGplot.png)
 This matrix shows the relationship between the closing price tomorrow of Fannie Mae's stock and the closing price today of Home Depot and Zillow.
 
 
 ![](fannie_LOW_DHIplot.png)
-[Click for a larger image](fannie_LOW_DHIplot.png)
+[Click for a larger image.](fannie_LOW_DHIplot.png)
 This matrix shows the relationship between the closing price tomorrow of Fannie Mae's stock and the closing price today of Lowes and D.R.Horton.
 
 
