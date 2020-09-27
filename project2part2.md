@@ -7,4 +7,4 @@ For this part of the project, I used the "quantmod" package to retrieve and anal
 ![](fannie_LOW_DHIplot.png)
 ![](fannie_allplot.png)
 
-## [Statistical Model](statmodel.pdf)
+## Statistical Model:
