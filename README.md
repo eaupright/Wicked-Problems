@@ -18,3 +18,4 @@ Hello! My name is Elizabeth Upright, and this is my repository for the course, W
 ## Index of Reflections
 
 1. [Data Science Reflection #1: 9/10/20](reflection1.md)
+2. [Data Science Reflection #2: 10/1/20](reflection2.md)
