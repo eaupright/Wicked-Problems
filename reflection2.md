@@ -8,8 +8,10 @@ Tone Transfer uses the DDSP library and machine learning to learn the exact tone
 
 At the moment, the main limitation of the software is that it only works with monophonic sounds, or when only one note is playing at a time. Thus, it cannot convert chords or harmonies into the base instruments. Despite this limitation, the model is still quite impressive, and very entertaining to experiment with.
 
-
 You can try the software out for yourself by clicking [here](https://sites.research.google/tonetransfer)
+
+
+
 
 ##### References:
 
