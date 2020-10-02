@@ -11,7 +11,13 @@ For this part of the project, I completed more analysis on the stocks I chose fo
 
 ## Stretch Goal:
 
-For the stretch goal, I chose six different stocks to work with: Netflix, Disney, AT&T, Apple, Comcast, and Verizon. With these stocks I did the same analysis as I did with the previous portfolio. Then, I also compared different possible distrubutions of the $10,000 on one line graph. 
+For the stretch goal, I chose six different stocks to work with: Netflix, Disney, AT&T, Apple, Comcast, and Verizon. With these stocks, I created three different portfolios with different distributions of the $10,000. The first portfolio had the $10,000 concentrated mostly in Netflix, Disney, and Apple. The second portfolio invested the money evenly across all six stocks. The third portfolio concentrated the money in AT&T, Comcast, and Verizon. Then, I compared the overall growth of these three portfolios by plotting their line graphs on the same graphic.
+
+![](multiplegrowthplot.png)
+
+This graphic has the first portfolio as the pink line, the second portfolio as the light blue line, and the third portfolio as the purple line. As shown by the graphic, the values of the portoflios follow the same general trend, but the first portfolio easily out performs the other two at the end of the two year period.
+
+In the following graphs, I further analyzed the first portfolio. I created a graph of its total monthly returns and another graph of its overall growth, without the other two portfolios.
 
 ![](stretchreturnsplot.png)
 ![](stretchgrowthplot.png)
