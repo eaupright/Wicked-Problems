@@ -19,5 +19,5 @@ This graphic has the first portfolio as the pink line, the second portfolio as t
 
 
 In the following two graphs, I further analyzed the first portfolio. I created a graph of its total monthly returns and another graph of its overall growth, without the other two portfolios.
-
-<img src="stretchreturnsplot.png" width="500" height="400" />   <img src="stretchgrowthplot.png" width="500" height="400" />
+![](stretchreturnsplot.png)
+![](stretchgrowthplot.png)
