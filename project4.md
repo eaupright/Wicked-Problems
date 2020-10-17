@@ -20,12 +20,6 @@ For the second stretch goal, I added the entity labels and boarders into the plo
 [Click for a larger image.](bihpop19stretchplot.png)
 
 
-For the third stretch goal, I used the rayshader package to create a 3D plot of the log of density population values for Bosnia and Herzegovina's municipalities. 
-
-![](bih3d.png)
-[Click for a larger image.](bih3d.png)
-
-
-![](bihpop19.mp4)
+For the third stretch goal, I used the rayshader package to create a 3D plot of the log of density population values for Bosnia and Herzegovina's municipalities. Then, I created a gif of the plot rotating around.
 
 ![](bihpop19.gif)
