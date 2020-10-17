@@ -24,3 +24,8 @@ For the third stretch goal, I used the rayshader package to create a 3D plot of 
 
 ![](bih3d.png)
 [Click for a larger image.](bih3d.png)
+
+
+![](bihpop19.mp4)
+
+![](bihpop19.gif)
