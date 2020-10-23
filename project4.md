@@ -1,4 +1,4 @@
-# Project 4: Extracting Populations from a Raster
+# Project 4 Part 1: Extracting Populations from a Raster
 
 For this project, I analyzed the population of Bosnia and Herzegovina by creating a raster from data I downloaded from WorldPop. I first organized the population data from the raster by Bosnia and Herzegovina's three entities. Then, I plotted this data by representing the population density on a color scale from yellow (least populous) to red (most populous).
 
