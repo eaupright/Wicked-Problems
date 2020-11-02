@@ -17,6 +17,7 @@ Hello! My name is Elizabeth Upright, and this is my repository for the course, W
 8. [Project 3 Part 1 & Part 2: 10/8/20](project3part1.md)
 9. [Project 4 Part 1: 10/17/10](project4.md)
 10. [Project 4 Part 2: 10/23/20](project4part2.md)
+11. [Project 5 Part 1: 11/2/20](project5part1.md)
 
 ## Index of Reflections
 
