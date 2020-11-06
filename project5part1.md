@@ -1,4 +1,4 @@
-# Project 5 Part 1: Acquiring, Modifying, and Describing Land Use and Land Cover Data
+# Project 5: Acquiring, Modifying, and Describing Land Use and Land Cover Data
 
 For this project, I retrieved land use and cover data from the WorldPop website. With this data, I then described and analyzed Bosnia and Herzegovina by creating several density histograms with population and other land use variables as the dependent variables. I also used this data to describe Bosnia and Herzegovina by creating regressions that show the correlation between population, and land use and land cover variables.
 
